@@ -13,7 +13,7 @@ body {
   /* Selectors to be matched up with rulesets */
   
   .card article img{
-    max-height: 120px;
+    max-height: 119px;
     float: right;
   }
   article p{
