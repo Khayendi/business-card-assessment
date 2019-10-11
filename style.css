@@ -13,8 +13,9 @@ body {
   /* Selectors to be matched up with rulesets */
   
   .card article img{
-    max-height: 119px;
+    max-height: 100%;
     float: right;
+    height:113px;
   }
   article p{
       line-height: 15px;
@@ -56,6 +57,7 @@ body {
 
   .card footer{
     background-color: red;
+    margin:0px 0px 0px 0px;
     line-height: 30px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0.1));
     border-radius: 0 0 1.5em 1.5em;
@@ -63,6 +65,7 @@ body {
   .card footer p{
       font-size:10px;
       font-weight: bold;
+      padding:0px 0px 0px 10px;
 
   }
 
